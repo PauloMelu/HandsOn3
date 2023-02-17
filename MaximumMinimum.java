@@ -30,8 +30,6 @@ public class MaximumMinimum{
                 min2 = numarr[i];
         }
 
-        
-
         System.out.println("Maximum difference: " + max + "-" + min + " = " + (max-min));
         System.out.println("Minimum difference: " + min2 + "-" + min + " = " + (min2-min));
     }
